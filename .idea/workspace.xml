@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09468242-ab7f-4539-827a-3e960b6af3ad" name="Default" comment="" />
+    <list default="true" id="09468242-ab7f-4539-827a-3e960b6af3ad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slr01.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aids.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amis.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/breslow.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cane.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linearRegression.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linearRegression.py" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -660,12 +673,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543526819883</updated>
-      <workItem from="1543526822095" duration="5818000" />
+      <workItem from="1543526822095" duration="5885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5818000" />
+    <option name="totallyTimeSpent" value="5885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="685" extended-state="6" />
